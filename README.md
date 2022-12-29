@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about web development 🤣
 - 👯 I’m willing to learn new technologies at fast - paced environment
-- 2021 goals : Learn one of backend language 💻
+- 2023 goals : Learn one of backend language 💻
 - ⚡ Fun fact: I love to listen to music and play game 🤪
 
 ### Spotify Playing 🎧
